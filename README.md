@@ -1,6 +1,5 @@
 # sam-repo
 
-:bowtie:
-:tada:
-:apple:
-:dog: :eggplant::
+Storing occasional insights scripts
+
+>>>>>>> refs/remotes/origin/master
